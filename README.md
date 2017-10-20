@@ -3,7 +3,7 @@ Source code for a Movie Trailer website.
 
 ## Introduction
 
-This programs contained in this repo will display movie information for several popular movies. This information displayed includes the movie title, a brief summary, poster image and tailer for the film. The movies to be displayed are generated from the entertainment_center_chris.py file. This file can be altered by the user and run inorder to display the movies of their choice. 
+This programs contained in this repo will display movie information for several popular movies. This information displayed includes the movie title, a brief summary, poster image and trailer for the film. The movies to be displayed are generated from the entertainment_center_chris.py file. This file can be altered by the user and run inorder to display movies of their choice. 
 
 ## Download 
 
