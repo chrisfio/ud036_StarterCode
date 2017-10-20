@@ -19,9 +19,9 @@ In order to update the movies listed on the Movie Trailer website, the user will
 
 When creating new objects you will want to name your object after the title of the movie, using all lowercase letters. This should be set equal to media.Movie("Movie Title", "Description", "Movie Poster URL", "Youtube Trailer URL"). See example below.  
 
-'fight_club = media.Movie("Fight Club",
+`fight_club = media.Movie("Fight Club",
                           "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
                           "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
-                          "https://www.youtube.com/watch?v=SUXWAEX2jlg")'
+                          "https://www.youtube.com/watch?v=SUXWAEX2jlg")`
 
 
