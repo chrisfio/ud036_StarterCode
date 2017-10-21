@@ -1,8 +1,10 @@
 import webbrowser
 
+
 class Movie():
 
-    #initialization for Movie, allows it to take in title, story, image url and tailer url    
+    """initialization for Movie, allows it to take in title, story, image url
+	and trailer url"""
     def __init__(self, title, movie_storyline, poster_image, trailer_youtube):
         self.title = title
         self.storyline = movie_storyline
